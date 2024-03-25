@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = "0.0.1"
+VERSION = "0.0.2"
 DESCRIPTION = "Pipelines used in common scrapy projects"
 LONG_DESCRIPTION = "A collection of pipelines used in common scrapy projects."
 
