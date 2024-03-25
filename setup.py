@@ -10,7 +10,7 @@ setup(
     name="common-pipes",
     version=VERSION,
     author="Chase Hampton",
-    author_email="chase.hampton@protonmai.com",
+    author_email="chase.hampton@protonmail.com",
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),

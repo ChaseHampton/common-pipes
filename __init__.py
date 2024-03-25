@@ -1,1 +1,1 @@
-from common import common_pipes
+from . import common
